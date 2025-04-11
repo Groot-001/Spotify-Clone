@@ -1,2 +1,4 @@
 # Spotify-Clone
-Spotify clone using using dynamically fetching of sings  
+Spotify clone capable of dynamically fetching the songs according to preferance of users.
+
+
